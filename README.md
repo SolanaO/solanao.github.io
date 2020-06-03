@@ -12,6 +12,9 @@ Solana's Github Pages is just a collection of showcases for my machine learning 
 
 [Data Analyst Nanodegree](https://solanao.github.io/dand_udacity/)
 
+... and the link to my GitHub blog
+
+[Cybernated Stories](https://solanao.github.io/cybernated_stories/)
 
 ### Support or Contact
 
